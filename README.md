@@ -16,4 +16,11 @@
 <p>On the right, click "Install from file"</p>
 <p>If you cloned this repository correctly, you should have a folder titled "Unleashed OS"</p>
 <p>Use the file in there</p>
-<p>Here is the official repository:<a href="https://github.com/DarkFlippers/unleashed-firmware">Unleashed</a></p>
+<p>Here is the official repository:&nbsp;<a href="https://github.com/DarkFlippers/unleashed-firmware">Unleashed</a></p><br>
+<h1>Files</h1>
+<p>In the folder named "Files", there are a ton of programs for you to use</p>
+<p>They have all been catagorized as Flipper folders, so I recommend pasting the contents of each folder into the corresponding one on the Flipper</p>
+<p>ie. Files/Applications -> Flipper/Applications</p>
+<p>Do this for all files in each folder</p>
+<p>Using qFlipper, click the file button. Then double click the SD Card, then you can drag and drop each file into their folder.</p>
+<p>How you organize it is up to you, but I recommend this.</p>
