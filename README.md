@@ -28,5 +28,4 @@
 <p>Do this for all files in each folder</p>
 <p>Using qFlipper, click the file button. Then double click the SD Card, then you can drag and drop each file into their folder.</p>
 <p>How you organize it is up to you, but I recommend this.</p><br>
-<h2>For everything else, use this repo:&nbsp;</h2>
-<a href="https://github.com/UberGuidoZ/Flipper"></a>
+<h2>For everything else, use this repo:&nbsp;<a href="https://github.com/UberGuidoZ/Flipper">https://github.com/UberGuidoZ/Flipper</a></h2>
