@@ -4,6 +4,10 @@
     <li>Follow instructions if necessary</li>
     <li>Install qFlipper</li>
 </ol>
+<h2>Download</h2>
+<p>Simply click the code button, and download zip</p>
+<p>Extract the zip file</p>
+<h2>Clone Using Git</h2>
 <h3>On Windows</h3>
 <p>Download git bash, and use it to clone this repo with the following commands</p>
 <h3>On Mac</h3>
